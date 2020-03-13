@@ -1,4 +1,4 @@
-class QE < Formula
+class Qe < Formula
     desc "Quantum Engine command line tool for running workflows"
     homepage "https://orquestra.io/docs/"
     url "https://github.com/zapatacomputing/qe-public/raw/master/archives/qe-0.0.1.tar.gz"
