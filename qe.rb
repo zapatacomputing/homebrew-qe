@@ -1,8 +1,8 @@
 class Qe < Formula
     desc "Quantum Engine command line tool for running workflows"
     homepage "https://orquestra.io/docs/"
-    url "https://github.com/zapatacomputing/qe-public/raw/master/archives/qe-0.0.1.tar.gz"
-    sha256 "02f1eb357c7d57da6c38f38650b337323c5026f48b38dd8aef8cf6b5a55bbd28"
+    url "https://github.com/zapatacomputing/qe-public/raw/master/archives/qe-darwin-amd640.0.1.tar.gz"
+    sha256 "d9b826923f7eb2c45a4d4722fea44a4f0a284c236409f144e9859839a2e8b3f2"
     version "0.0.1"
   
     bottle :unneeded
